@@ -1,0 +1,31 @@
+[
+    {
+      "id": "MM001",
+      "membership_type": "Basic Mambership",
+      "price": 50,
+      "features": [
+        "Unlimited access to gym facilities during operating hours.",
+        "Use of cardio machines and weightlifting equipment."
+      ]
+    },
+    {
+      "id": "PV002",
+      "membership_type": "Premium Membership ",
+      "price": 10,
+      "features": [
+        "Flexible pay-per-visit options.",
+        "Access to gym facilities for a single visit."
+      ]
+    },
+    {
+      "id": "AM003",
+      "membership_type": "Corporate Membership",
+      "price": 400,
+      "features": [
+        "12 months of unlimited access to gym facilities.",
+        "Access to locker rooms and showers.",
+        "Free fitness assessment and personalized workout plan."
+      ]
+    }
+  ]
+  
